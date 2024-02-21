@@ -5,7 +5,7 @@ import java.util.Collection;
 public class Libro {
     
     String titulo;
-    Collection<Autor> autors;
+    Collection<Autor> autors; //! Con esta clase te permite implemetnar el .add, .delete, .size 
     float precio;
     int stock;
 
