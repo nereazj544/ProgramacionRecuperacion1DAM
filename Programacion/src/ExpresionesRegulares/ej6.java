@@ -29,7 +29,7 @@ public class ej6 {
             String t = tran.toUpperCase();
             linea =  linea.substring(0, inicio) + t + linea.substring(fin + "</uppercase>".length());
         }
-        return linea;
+        return linea; //!comentario
     }
 
     
